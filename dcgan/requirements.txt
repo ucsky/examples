@@ -1,3 +1,5 @@
 torch
 torchvision
 lmdb
+
+pillow>=7.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
